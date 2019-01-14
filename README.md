@@ -40,7 +40,7 @@
   - [Problem 228A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/228A.cpp)
   - [Problem 231A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/231A.cpp)
   - [Problem 236A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/236A.cpp)
-  - [Problem 239A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/239A.cpp)
+  - [Problem 239A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/239A.c)
   - [Problem 246A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/246A.cpp)
   - [Problem 262A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/262A.cpp)
   - [Problem 263A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/263A.cpp)
