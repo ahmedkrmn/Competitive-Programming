@@ -1,5 +1,5 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include "stdio.h"
+#include <stdbool.h>
 
 int main()
 {
@@ -8,10 +8,11 @@ int main()
 	bool printed=false;
 	for (int i = k; i <= n; i+=k)
 	{
-		i-y >0 ?  printf("%d ",i-y ) : bet=0 ;
+		if (i-y > 0) printf("%d ",i-y );
+		else bet = 0;
 		if (i-y > 0) printed=true;
 	}
-	if (!printed) {printf("-1");}
-	cout << "\n";
+	if (!printed) printf("-1");
+	printf("\n");
 
 }
