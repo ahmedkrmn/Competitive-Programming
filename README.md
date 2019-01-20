@@ -100,7 +100,8 @@
   - [Problem 1079A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1079A.cpp)
   - [Problem 1100A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1100A.py)
   - [Problem 1101A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1101A.py)
-  
+  - [Problem 1105A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1105A.py)
+
 - Level B Problems:
   - [Problem 158B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/158B.py)
   - [Problem 168B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/168B.cpp)
@@ -121,6 +122,7 @@
   - [Problem 1079B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1079B.cpp)
   - [Problem 1100B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1100B.py)
   - [Problem 1101B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1101B.py)
+  - [Problem 1105B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1105B.py)   
   
 - Level C Problems:
   - [Problem 515C](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/515C.cpp)
