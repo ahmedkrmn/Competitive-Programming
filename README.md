@@ -100,6 +100,7 @@
   - [Problem 1079A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1079A.cpp)
   - [Problem 1100A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1100A.py)
   - [Problem 1101A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1101A.py)
+  - [Problem 1104A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1104A.py)
   - [Problem 1105A](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1105A.py)
 
 - Level B Problems:
@@ -122,14 +123,16 @@
   - [Problem 1079B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1079B.cpp)
   - [Problem 1100B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1100B.py)
   - [Problem 1101B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1101B.py)
-  - [Problem 1105B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1105B.py)   
-  
+  - [Problem 1104B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1104B.py)
+  - [Problem 1105B](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1105B.py)
+     
 - Level C Problems:
   - [Problem 515C](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/515C.cpp)
   - [Problem 1077C](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1077C.cpp)
   - [Problem 1100C](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1100C.py)
   - [Problem 1101C](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1101C.py)
-  
+  - [Problem 1104C](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1104C.py)
+
 - Level E Problems:
   - [Problem 1077E](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1077E.cpp)
   - [Problem 1101E](https://github.com/ahmedkrmn/Competitive-Programming/blob/master/Codeforces/1101E.c)
